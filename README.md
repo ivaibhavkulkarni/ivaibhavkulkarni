@@ -12,6 +12,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaibhavkulkarni&show_icons=true&locale=en" alt="ivaibhavkulkarni" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-two-green.vercel.app?user=ivaibhavkulkarni&hide_border=true" alt="GitHub Streak" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ivaibhavkulkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivaibhavkulkarn" height="30" width="40" /></a>
