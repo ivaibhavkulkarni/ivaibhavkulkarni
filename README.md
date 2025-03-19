@@ -7,12 +7,6 @@
   </a> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/ivaibhavkulkarn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ivaibhavkulkarn?logo=twitter&style=for-the-badge" alt="ivaibhavkulkarn" />
-  </a> 
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -123,4 +117,10 @@
   <a href="https://www.leetcode.com/user7623xd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+</p>
+
+<p align="left"> 
+  <a href="https://twitter.com/ivaibhavkulkarn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ivaibhavkulkarn?logo=twitter&style=for-the-badge" alt="ivaibhavkulkarn" />
+  </a> 
 </p>
