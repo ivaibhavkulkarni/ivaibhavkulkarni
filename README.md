@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kulkarni</h1>
+<h1 align="start">Hi 👋, I'm Vaibhav Kulkarni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaibhavkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="ivaibhavkulkarni" /> </p>
 
 <p align="left"> 
